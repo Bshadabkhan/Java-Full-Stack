@@ -1,0 +1,10 @@
+Cmd prompt shortcuts-
+1.DIR-list of directories / ls - for Linux
+2.cls -clear screen
+3.dir /ad - to see all files in details
+4. cd doc- to see documents
+
+Powershell
+1.dir -force -- to display all files including hidden files
+2.cls -clear screen / clear - clear screen
+3.cd Doc - to see documents
