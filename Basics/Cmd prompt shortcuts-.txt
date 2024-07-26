@@ -8,3 +8,5 @@ Powershell
 1.dir -force -- to display all files including hidden files
 2.cls -clear screen / clear - clear screen
 3.cd Doc - to see documents
+4. pwd - to know the path 
+5. rm -R .\something\ - to delete a folder
